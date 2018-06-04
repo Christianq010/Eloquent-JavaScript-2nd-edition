@@ -2,8 +2,6 @@
 // Some important things to remember
 // ------------------------------------
 
-// 
-
 // Strings and their properties --------------
 
 // Slice and IndexOf
@@ -38,3 +36,13 @@ console.log(string.length);
 // → 3
 console.log(string[1]);
 // → b”
+
+// REST PARAMETER
+let numbers = [5, 1, 7];
+console.log(Math.max(...numbers));
+
+// In - arrays
+
+let words = ["never", "fully"];
+console.log(["will", ...words, "understand"]);
+// → ["will", "never", "fully", "understand"]”
