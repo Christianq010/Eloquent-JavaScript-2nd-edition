@@ -1,4 +1,4 @@
-# Eloquent JavaScript (2nd Edition)
+# Eloquent JavaScript (3rd Edition)
 
 A collection of all the completed exercises from the book.
 
