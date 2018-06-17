@@ -7,3 +7,5 @@ Eloquent JavaScript, 2nd Ed.: A Modern Introduction to Programming - [Amazon](ht
 ## Usage
 
 > View answers with the [Code Sandbox](https://eloquentjavascript.net/code/)
+
+* Regular expressions online debugger tool -  https://debuggex.com 
