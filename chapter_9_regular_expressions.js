@@ -40,3 +40,11 @@ function verify(regexp, yes, no) {
             console.log(`Unexpected match for '${str}'`);
         }
 }
+
+
+// Quiz 02
+
+let text = "'I'm the cook,' he said, 'it's my job.'";
+
+console.log(text.replace(/(^|\W)'|'(\W|$)/g, '$1"$2'));
+// → "I'm the cook," he said, "it's my job."
