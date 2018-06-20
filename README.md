@@ -9,3 +9,4 @@ Eloquent JavaScript, 2nd Ed.: A Modern Introduction to Programming - [Amazon](ht
 > View answers with the [Code Sandbox](https://eloquentjavascript.net/code/)
 
 * Regular expressions online debugger tool -  https://debuggex.com 
+* Notes on Promises - https://scotch.io/tutorials/javascript-promises-for-dummies
