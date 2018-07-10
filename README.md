@@ -1,6 +1,6 @@
 # Eloquent JavaScript (3rd Edition)
 
-A collection of all the completed exercises from the book.
+> A collection of all the completed exercises from the book.
 
 Eloquent JavaScript, 2nd Ed.: A Modern Introduction to Programming - [Amazon](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction-ebook/dp/B00QL616UU/ref=pd_sbs_351_1?_encoding=UTF8&psc=1&refRID=58AEK5KXJR1M320DFB10).
 
